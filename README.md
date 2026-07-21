@@ -1,30 +1,29 @@
-**# AI & ML Internship
+# 🚀 Day 2 - Python Basics
 
-This repository contains my daily tasks completed during the AI & Machine Learning Internship at Codomax Digital Solutions.
+## 📖 Overview
 
-## 👨‍🎓 Intern Details
-
-**Name:** Jugadeep Singh
-
-**Company:** Codomax Digital Solutions
-
-## 📅 Progress
-
-| Day | Status |
-|------|--------|
-| Day 1 | ✅ Completed |
-
-## 🛠 Tools Used
-
-- Python
-- Jupyter Notebook
-- Visual Studio Code
-- Git
-- GitHub
+On Day 2 of my AI & Machine Learning Internship at Codomax Digital Solutions, I learned the fundamentals of Python programming.
 
 ## 📚 Topics Covered
 
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Environment Setup
+- Variables
+- Data Types
+- Type Conversion
+- User Input
+- Operators
+- Conditional Statements (`if`, `elif`, `else`)
+- Loops (`for`, `while`)
+- Functions
+- Lists
+- Tuples
+- Dictionaries
+- Sets
+- Basic Python Programs
+
+## 📂 Files
+
+- 📓 [Day2_Python_Basics.ipynb](Day2_Python_Basics.ipynb)
+
+## 🎯 Learning Outcome
+
+Developed a strong understanding of Python fundamentals that will serve as the foundation for future AI and Machine Learning projects.
