@@ -1,29 +1,19 @@
-# 🚀 Day 2 - Python Basics
+# AI-ML Internship
 
-## 📖 Overview
+This repository documents my daily tasks and progress during the AI/ML Internship.
 
-On Day 2 of my AI & Machine Learning Internship at Codomax Digital Solutions, I learned the fundamentals of Python programming.
+## 📅 Day-wise Progress
 
-## 📚 Topics Covered
+| Day | Topic | Notebook |
+|-----|-------|----------|
+| [Day 1](./Day1) | Environment Setup | `Day1_Environment_Setup.ipynb` |
+| [Day 2](./Day2) | Python Basics | `Day2_Python_Basics.ipynb` |
+| [Day 3](./Day3) | NumPy Fundamentals | `Day3_NumPy_Tasks.ipynb` |
 
-- Variables
-- Data Types
-- Type Conversion
-- User Input
-- Operators
-- Conditional Statements (`if`, `elif`, `else`)
-- Loops (`for`, `while`)
-- Functions
-- Lists
-- Tuples
-- Dictionaries
-- Sets
-- Basic Python Programs
+## 🛠️ Tools Used
+- Python
+- NumPy
+- Jupyter Notebook
 
-## 📂 Files
-
-- 📓 [Day2_Python_Basics.ipynb](Day2_Python_Basics.ipynb)
-
-## 🎯 Learning Outcome
-
-Developed a strong understanding of Python fundamentals that will serve as the foundation for future AI and Machine Learning projects.
+## 📌 Status
+Ongoing — updated daily with new tasks and outcomes.
