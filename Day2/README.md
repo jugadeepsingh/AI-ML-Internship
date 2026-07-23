@@ -1,3 +1,11 @@
-# Day 2 - Python Basics
+# Day 2
 
-This folder contains my Day 2 internship work.
+Python Basics
+
+Contents:
+- Variables
+- Data Types
+- Operators
+- Conditional Statements
+- Loops
+- Functions

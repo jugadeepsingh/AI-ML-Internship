@@ -1,30 +1,19 @@
-**# AI & ML Internship
+# AI-ML Internship
 
-This repository contains my daily tasks completed during the AI & Machine Learning Internship at Codomax Digital Solutions.
+This repository documents my daily tasks and progress during the AI/ML Internship.
 
-## 👨‍🎓 Intern Details
+## 📅 Day-wise Progress
 
-**Name:** Jugadeep Singh
+| Day | Topic | Notebook |
+|-----|-------|----------|
+| [Day 1](./Day1) | Environment Setup | `Day1_Environment_Setup.ipynb` |
+| [Day 2](./Day2) | Python Basics | `Day2_Python_Basics.ipynb` |
+| [Day 3](./Day3) | NumPy Fundamentals | `Day3_NumPy_Tasks.ipynb` |
 
-**Company:** Codomax Digital Solutions
-
-## 📅 Progress
-
-| Day | Status |
-|------|--------|
-| Day 1 | ✅ Completed |
-
-## 🛠 Tools Used
-
+## 🛠️ Tools Used
 - Python
+- NumPy
 - Jupyter Notebook
-- Visual Studio Code
-- Git
-- GitHub
 
-## 📚 Topics Covered
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Environment Setup
+## 📌 Status
+Ongoing — updated daily with new tasks and outcomes.
